@@ -1,7 +1,4 @@
-## 🌐 README for [portfolio-website](https://github.com/moriiar/portfolio-website)
-
-```markdown
-# Portfolio Website
+## portfolio-website
 
 A personal portfolio website showcasing projects, skills, and experiences. Designed to provide a comprehensive overview of professional work and to serve as a platform for potential collaborations.
 
@@ -48,5 +45,4 @@ To run the website locally:
 ---
 
 Feel free to customize these templates further to match your personal style and the specifics of your projects. Including screenshots and detailed descriptions can significantly enhance the appeal and clarity of your READMEs. If you need assistance with any other aspects of your GitHub repositories or projects, don't hesitate to ask!
-::contentReference[oaicite:0]{index=0}
  
