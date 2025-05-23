@@ -2,10 +2,6 @@
 
 A personal portfolio website showcasing projects, skills, and experiences. Designed to provide a comprehensive overview of professional work and to serve as a platform for potential collaborations.
 
-## 🔗 Live Demo
-
-Visit the live website: [portfolio-website-eight-neon.vercel.app](https://portfolio-website-eight-neon.vercel.app)
-
 ## 🧰 Technologies Used
 
 - HTML5
